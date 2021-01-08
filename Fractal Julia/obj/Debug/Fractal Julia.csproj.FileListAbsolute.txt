@@ -1,0 +1,10 @@
+C:\Users\Jay\source\repos\Fractal Julia\bin\Debug\Fractal Julia.exe.config
+C:\Users\Jay\source\repos\Fractal Julia\bin\Debug\Fractal Julia.exe
+C:\Users\Jay\source\repos\Fractal Julia\bin\Debug\Fractal Julia.pdb
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal Julia.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal_Julia.Form1.resources
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal_Julia.Properties.Resources.resources
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal Julia.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal Julia.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal Julia.exe
+C:\Users\Jay\source\repos\Fractal Julia\obj\Debug\Fractal Julia.pdb
